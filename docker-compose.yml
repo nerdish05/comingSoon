@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   web:
     image: ${IMAGE_NAME:-coming-soon-site}:${IMAGE_TAG:-latest}
